@@ -1,2 +1,2 @@
 # Friendzy
-ACM site de réservation : [link here](https://www.acmartigueloutan.fr)
+ACM site de réservation : [lien de redirection](https://www.acmartigueloutan.fr)
